@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alfonso Cervantes</h1>
 <h3 align="center">A passionate backend Developer from Mexico</h3>
 
-- 🔭 I’m currently working on [Inventory System](https://github.com/TeenBanner/Inventory_system)
+- 🔭 I’m currently working on [BlogPost](https://github.com/TeenBanner/Blog_post)
 
 - 🌱 I’m currently learning **API, JWTAuth, js**
 
